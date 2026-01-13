@@ -2,7 +2,7 @@
 using namespace std;
 int n;
 int sumofNatNumb (int n){
-        int sum = (n * (n+1))/2 ;
+        int sum = (n*(n+1))/2 ;
         return sum ;
     }
 int main () 
